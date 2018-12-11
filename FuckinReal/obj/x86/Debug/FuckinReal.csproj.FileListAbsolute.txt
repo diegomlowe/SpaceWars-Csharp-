@@ -1,0 +1,5 @@
+c:\users\diego\documents\visual studio 2010\Projects\FuckinReal\FuckinReal\bin\Debug\FuckinReal.exe
+c:\users\diego\documents\visual studio 2010\Projects\FuckinReal\FuckinReal\bin\Debug\FuckinReal.pdb
+c:\users\diego\documents\visual studio 2010\Projects\FuckinReal\FuckinReal\obj\x86\Debug\FuckinReal.exe
+c:\users\diego\documents\visual studio 2010\Projects\FuckinReal\FuckinReal\obj\x86\Debug\FuckinReal.pdb
+C:\Users\diego\Documents\Visual Studio 2010\Projects\FuckinReal\FuckinReal\obj\x86\Debug\FuckinReal.csprojResolveAssemblyReference.cache
